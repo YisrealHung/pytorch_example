@@ -1,0 +1,1 @@
+python train_ssd.py --dataset-type=voc --data=data/dataset --model-dir=models/dataset --num-workers=0 --batch-size=8 --epochs=50
